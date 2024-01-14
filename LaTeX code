@@ -1,0 +1,94 @@
+\documentclass{resume}
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\titlespacing{\section}{0pt}{\baselineskip}{\baselineskip}
+
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{SHANKARI R}
+\address{+91 97899 69507 \quad shankariraja96@gmail.com \quad \href{https://linkedin.com/in/Shankari-Raja}{LINKEDIN}}
+
+\begin{document}
+
+\begin{rSection}{OBJECTIVE}
+Motivated AI engineering student with a strong passion for machine learning, seeking a Google STEP Internship to apply practical ML knowledge, contribute to dynamic projects, and learn from an innovative team.
+\end{rSection}
+
+\begin{rSection}{Education}
+{\bf B.Tech Artificial Intelligence and Data Science}, Dhanalakshmi College Of Engineering \hfill {Expected 2025}\\
+Relevant Coursework: A, B, C, and D.
+
+{\bf Higher Secondary Schooling (HSC)}, Dr. V Genguswamy Naidu Matric Higher Secondary School \hfill {2020 - 2021}
+\end{rSection}
+
+\begin{rSection}{EXPERIENCE}
+\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+Company Name \hfill \textit{San Francisco, CA}
+\begin{itemize}
+    \itemsep -3pt {} 
+    \item Achieved X\% growth for XYZ using A, B, and C skills.
+    \item Led XYZ which led to X\% of improvement in ABC
+    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+\end{itemize}
+ 
+\textbf{Role Name} \hfill Jan 2017 - Jan 2019\\
+Company Name \hfill \textit{San Francisco, CA}
+\begin{itemize}
+    \itemsep -3pt {} 
+    \item Achieved X\% growth for XYZ using A, B, and C skills.
+    \item Led XYZ which led to X\% of improvement in ABC
+    \item Developed XYZ that did A, B, and C using X, Y, and Z. 
+\end{itemize}
+\end{rSection} 
+
+\begin{rSection}{PROJECTS}
+\vspace{-1.25em}
+\item \textbf{Hiring Search Tool.} {Developed a tool to search for Hiring Managers and Recruiters using ReactJS, NodeJS, Firebase, and boolean queries. The project has garnered 25000 users, with 5000+ saved and shared queries, surpassing LinkedIn in search accuracy. \href{https://hiring-search.careerflow.ai/}{(Try it here)}}
+\item \textbf{Short Project Title.} {Led a successful project utilizing A, B, and C, resulting in quantifiable success and earning an award.}
+\end{rSection} 
+
+\begin{rSection}{SKILLS \& CERTIFICATIONS}
+\begin{minipage}{0.5\textwidth}
+    \textbf{Technical Skills}
+    \begin{itemize}
+        \item Programming Languages: Python
+        \item Machine Learning Frameworks: PyTorch
+        \item Databases: Qdrant Vector Database
+        \item Version Control: Git
+        \item Operating Systems: Linux
+    \end{itemize}
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+    \textbf{Certifications}
+    \begin{itemize}
+        \item Google Business Intelligence
+        \item Machine Learning Specialization on Coursera
+        \item Microsoft Fundamentals of Data
+        \item Microsoft Fundamentals of Data
+        \item Microsoft Fundamentals of Data
+    \end{itemize}
+\end{minipage}
+\end{rSection}
+
+\begin{rSection}{CERTIFICATIONS \& MEMBERSHIPS}
+\begin{minipage}{0.5\textwidth}
+    \textbf{Memberships}
+    \begin{itemize}
+        \item GDSC
+        \item Google’s Women Tech Makers
+        \item Google Developer Group- Chennai
+        \item Member of Toastmasters
+    \end{itemize}
+\end{minipage}%
+\begin{minipage}{0.5\textwidth}
+    \textbf{Accomplishments}
+    \begin{itemize}
+        \item 2nd runner-up in the National Level Project Hackathon by OneYes
+        \item AI/ML Lead at Google Developer Student Club - Dhanalakshmi College Of Engineering
+    \end{itemize}
+\end{minipage}
+\end{rSection}
+
+\end{document}
